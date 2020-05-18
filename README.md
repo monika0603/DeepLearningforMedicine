@@ -16,4 +16,4 @@ There are two directories in this repository:
 
 While `AI for medical diagnosis` shows how to deploy Machine Learning models for predicting survival/hazards for patients. Diagram below shows Harrel's C-index that displays accuracy of our models to predict survival rate between any two randomly selected patients based on their risk score. 
 
-<img src="Harrell’s C-Index.pdf" width="100%">
+<img src="Harrell’s C-Index.png" width="100%">
